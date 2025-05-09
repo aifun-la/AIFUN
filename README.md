@@ -1,5 +1,7 @@
 # AIFUN爱翻机场
 
+![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=AIFUN&label=Views&color=brightgreen&style=flat)
+
 ## 🌐AIFUN官网：[aifun.la](https://dash.afun.la/register?code=VnkSSkmH)
 
 ---
