@@ -17,6 +17,7 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 - 📱 客户端多平台支持，操作简便，不限制设备连接数
 - 📺 解锁主流流媒体 & AI工具（流媒体解锁YouTube，奈飞，迪士尼，TikTok，Prime Video，HBO Max，Spotify，Steam，Instagram，哔哩哔哩港澳台等，AI解锁ChatGPT，Claude，Gemini，MetaAI，Grok等）
 
+港新日美有 0.2X 低倍率节点，138G 能当 690G用
 ---
 
 ### 🌎️ 落地国家地区节点
@@ -26,6 +27,7 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 
 ### 🎟️ 优惠码
 > 九五折优惠码：**95Zhe**
+
 > 九折优惠码：**xiaoheizi**
 
 > 官网会不定期上线特别优惠折扣活动！请收藏官网 https://aifun.la
