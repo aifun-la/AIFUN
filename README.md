@@ -1,4 +1,4 @@
-# AIFUN爱翻机场
+# AIFUN爱翻机场官网
 
 ![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=AIFUN&label=Views&color=brightgreen&style=flat)
 
@@ -25,9 +25,10 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 ---
 
 ### 🎟️ 优惠码
-> 双九折优惠码：**xiaoheizi**
+> 九五折优惠码：**95Zhe**
+> 九折优惠码：**xiaoheizi**
 
-> 大型节假日，官网还会特别上线优惠折扣活动！请收藏官网 https://aifun.la
+> 官网会不定期上线特别优惠折扣活动！请收藏官网 https://aifun.la
 
 ---
 
@@ -49,21 +50,9 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 
 **AIFUN机场官网：[aifun.la](https://aifun.la)**
 
-**AiFun官网：[aifun.la](https://aifun.la)**
-
-**AiFun机场官网：[aifun.la](https://aifun.la)**
-
 **爱翻官网：[aifun.la](https://aifun.la)**
 
 **爱翻机场官网：[aifun.la](https://aifun.la)**
-
-**aifun官网：[aifun.la](https://aifun.la)**
-
-**aifun机场官网：[aifun.la](https://aifun.la)**
-
-**aifun爱翻官网：[aifun.la](https://aifun.la)**
-
-**aifun爱翻机场官网：[aifun.la](https://aifun.la)**
 
 **AIFUN爱翻官网：[aifun.la](https://aifun.la)**
 
